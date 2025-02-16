@@ -1,0 +1,118 @@
+{
+  "Thiruvananthapuram": {
+    "1": "Thiruvananthapuram",
+    "16": "Attingal",
+    "19": "Parassala",
+    "20": "Neyyattinkara",
+    "21": "Nedumangad",
+    "22": "Kazhakuttom",
+    "74": "Kattakada",
+    "81": "Varkala"
+  },
+  "Kollam": {
+    "2": "Kollam",
+    "23": "Karunagappally",
+    "24": "Kottarakkara",
+    "25": "Punalur",
+    "61": "Kunnathur",
+    "80": "Pathanapuram",
+    "82": "Chadayamangalam"
+  },
+  "Pathanamthitta": {
+    "3": "Pathanamthitta",
+    "26": "Adoor",
+    "27": "Thiruvalla",
+    "28": "Mallappally",
+    "62": "Ranni",
+    "83": "Konni"
+  },
+  "Alappuzha": {
+    "4": "Alappuzha",
+    "29": "Kayamkulam",
+    "30": "Chengannur",
+    "31": "Mavelikkara",
+    "32": "Cherthala",
+    "66": "Kuttanadu"
+  },
+  "Kottayam": {
+    "5": "Kottayam",
+    "33": "Changanassery",
+    "34": "Kanjirappally",
+    "35": "Pala",
+    "36": "Vaikom",
+    "67": "Uzhavoor"
+  },
+  "Idukki": {
+    "6": "Idukki",
+    "37": "Vandiperiyar",
+    "38": "Thodupuzha",
+    "68": "Devikulam",
+    "69": "Udumbanchola"
+  },
+  "Ernakulam": {
+    "7": "Ernakulam",
+    "17": "Muvattupuzha",
+    "39": "Tripunithura",
+    "40": "Perumbavoor",
+    "41": "Aluva",
+    "42": "North Paravur",
+    "43": "Mattancherry",
+    "44": "Kothamangalam",
+    "63": "Angamaly"
+  },
+  "Thrissur": {
+    "8": "Thrissur",
+    "45": "Irinjalakuda",
+    "46": "Guruvayur",
+    "47": "Kodungallur",
+    "48": "Wadakkanchery",
+    "64": "Chalakudy",
+    "75": "Thriprayar"
+  },
+  "Palakkad": {
+    "9": "Palakkad",
+    "49": "Alathur",
+    "50": "Mannarkkad",
+    "51": "Ottappalam",
+    "52": "Pattambi",
+    "70": "Chittur"
+  },
+  "Malappuram": {
+    "10": "Malappuram",
+    "53": "Perinthalmanna",
+    "54": "Ponnani",
+    "55": "Tirur",
+    "65": "Tirurangadi",
+    "71": "Nilambur",
+    "84": "Kondotty"
+  },
+  "Kozhikode": {
+    "11": "Kozhikode",
+    "18": "Vadakara",
+    "56": "Koyilandy",
+    "57": "Koduvally",
+    "76": "Nanmanda",
+    "77": "Perambra",
+    "85": "Ramanattukara"
+  },
+  "Wayanad": {
+    "12": "Wayanad",
+    "72": "Mananthavady",
+    "73": "Sulthan Bathery"
+  },
+  "Kannur": {
+    "13": "Kannur",
+    "58": "Thalassery",
+    "59": "Thaliparamba",
+    "78": "Iritty",
+    "86": "Payyannur"
+  },
+  "Kasaragod": {
+    "14": "Kasaragod",
+    "60": "Kanhangad",
+    "79": "Vellarikundu"
+  },
+  "KSRTC": {
+    "15": "Kerala State Road Transport Corporation"
+  }
+}
