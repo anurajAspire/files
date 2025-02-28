@@ -1,0 +1,74 @@
+{
+    "2024": {
+        "total_vehicle": 778840,
+        "total_ev": 83255,
+        "monthly_data": {
+            "january": {"total": 68915, "ev": 8052},
+            "february": {"total": 59178, "ev": 6944},
+            "march": {"total": 63864, "ev": 10155},
+            "april": {"total": 59244, "ev": 4826},
+            "may": {"total": 62776, "ev": 6342},
+            "june": {"total": 58579, "ev": 5490},
+            "july": {"total": 63108, "ev": 6391},
+            "august": {"total": 67739, "ev": 6704},
+            "september": {"total": 87407, "ev": 8418},
+            "october": {"total": 72089, "ev": 7028},
+            "november": {"total": 61918, "ev": 7194},
+            "december": {"total": 54743, "ev": 5711}
+        }
+    },
+    "2023": {
+        "total_vehicle": 759191,
+        "total_ev": 75807,
+        "monthly_data": {
+            "january": {"total": 65182, "ev": 5225},
+            "february": {"total": 59510, "ev": 6479},
+            "march": {"total": 81557, "ev": 8236},
+            "april": {"total": 46841, "ev": 5630},
+            "may": {"total": 61646, "ev": 8664},
+            "june": {"total": 58266, "ev": 5200},
+            "july": {"total": 56822, "ev": 5291},
+            "august": {"total": 75546, "ev": 6102},
+            "september": {"total": 78820, "ev": 5737},
+            "october": {"total": 60533, "ev": 6274},
+            "november": {"total": 57833, "ev": 6688},
+            "december": {"total": 56635, "ev": 6281}
+        }
+    },
+    "2022": {
+        "total_vehicle": 784077,
+        "total_ev": 39624,
+        "monthly_data": {
+            "january": {"total": 67337, "ev": 1725},
+            "february": {"total": 59610, "ev": 2180},
+            "march": {"total": 71784, "ev": 3365},
+            "april": {"total": 62236, "ev": 3378},
+            "may": {"total": 59943, "ev": 2807},
+            "june": {"total": 64852, "ev": 3144},
+            "july": {"total": 56679, "ev": 2480},
+            "august": {"total": 76503, "ev": 3610},
+            "september": {"total": 77595, "ev": 3722},
+            "october": {"total": 65562, "ev": 4301},
+            "november": {"total": 60385, "ev": 4271},
+            "december": {"total": 61591, "ev": 4641}
+        }
+    },
+    "2021": {
+        "total_vehicle": 765918,
+        "total_ev": 8736,
+        "monthly_data": {
+            "january": {"total": 80381, "ev": 267},
+            "february": {"total": 70563, "ev": 367},
+            "march": {"total": 82719, "ev": 498},
+            "april": {"total": 85189, "ev": 632},
+            "may": {"total": 12569, "ev": 175},
+            "june": {"total": 29349, "ev": 359},
+            "july": {"total": 63116, "ev": 689},
+            "august": {"total": 79021, "ev": 877},
+            "september": {"total": 74477, "ev": 1054},
+            "october": {"total": 61000, "ev": 1132},
+            "november": {"total": 63015, "ev": 1296},
+            "december": {"total": 64519, "ev": 1390}
+        }
+    }
+}
